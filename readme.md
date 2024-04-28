@@ -6,3 +6,4 @@
 - Day04: 9*9
 - Day05: function
 - Day06: pointer
+- Day07: write file
