@@ -7,3 +7,4 @@
 - Day05: function
 - Day06: pointer
 - Day07: write file
+- Day08: read file
