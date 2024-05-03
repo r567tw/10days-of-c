@@ -9,3 +9,4 @@
 - Day07: write file
 - Day08: read file
 - Day09: malloc() & calloc() 
+- Day10: encrypt & decrypt
